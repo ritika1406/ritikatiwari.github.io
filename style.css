@@ -1,0 +1,214 @@
+.wrapper{
+     background: darkgrey;
+     
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Lato", sans-serif !important;
+	font-weight: 900 !important;
+}
+#header{
+    margin-top: 10rem;
+    border: 1px solid #eee;
+    background-color: white;
+    padding-bottom: 1rem;
+}
+
+body, html {
+    background-color: #E3E3E3;
+    overflow-x: hidden;
+}
+
+.profile-photo {
+	width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-size: cover;
+    margin-top: -100px;
+    margin-bottom: 40px;
+
+}
+.img-circle {
+    border-radius: 50%;
+}
+#header img {
+    max-width: 15rem;
+    position: relative;
+    bottom: 7.5rem;
+}
+
+#header .details {
+    margin-top: -2rem;
+}
+
+#header h2 {
+    color: #646464;
+    font-size: 3.8rem;
+    padding-bottom: 1rem;
+}
+
+#header span {
+    font-weight: 300;
+    font-size: .7rem;
+}
+
+
+.my-arrow-div{
+    margin: .6rem;
+}
+a{
+    color:rgb(37, 35, 35);
+}
+.fa-2x{
+    font-size: 1rem;
+    margin: 1rem .5rem;
+    color: crimson;
+    
+}
+a{
+    text-decoration: none;
+}
+ .btn{
+    border-radius: 5rem;
+    border: .2rem solid coral;
+    color: crimson;
+    width: auto;
+}
+
+/*****************************learning section*****************************/
+
+#learning .learnn{
+    text-align: center;
+}
+#learning{
+    width: auto;
+    height: auto;
+    background-color:rgb(233, 95, 49);
+}
+#learning h2{
+    margin-top: 5rem;
+    color: whitesmoke;
+}
+#learning .learn{
+    text-align: center;
+    margin-top: 1rem;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(245, 210, 123);
+
+}
+#learning .front{
+   font-weight: bold;
+   color: white;
+   
+}
+#learning ul{
+    margin: 1rem;
+}
+#learning .frontt{
+   
+    list-style:none;
+    color: #ffffffce;
+	font-family: 'Tourney', cursive;
+	font-weight: 500;
+    
+}
+
+#learning .back {
+    font-weight: bold;
+    color: white;
+ }
+
+ 
+ #learning .data {
+    
+   
+    font-weight: bold;
+    color: white;
+ }
+ 
+#learning .fa{
+    font-size: 1.5rem;
+    margin-top : 2rem;
+    margin-bottom: 1rem;
+    margin-right: .5rem;
+    color: darksalmon;
+}
+#learning p{
+    text-align: center;
+    padding: 2rem;
+}
+#learning .card-body {
+     
+     border-style: solid;
+     border-width: .1rem;
+     border-radius: 15%;
+     border-color: gold;
+     margin: 2rem;
+     
+    background-color: black;
+}
+#learning .btn{
+    border-radius: 15%;
+    border-width: .1rem;
+    border-color: gold;
+    color: antiquewhite;
+    background-color: black;
+    font-size: large
+}
+
+/*****************************projects*****************************/
+
+
+
+#projects {
+    
+    background-color: white;
+    width:auto;
+}
+#projects h3 {
+    color: rgb(233, 69, 15); 
+    font-weight: bolder;
+
+}
+#projects img{
+    margin: .5rem;
+}
+#projects .card{
+    margin: 1rem;
+    border-color: coral;
+}
+#projects .car{
+    padding: 4rem;
+   
+}
+
+/********INTEREST****************************/
+
+/************************Work with me*********************************/
+
+
+
+ #footerrs{
+     background-color:rgb(233, 95, 49);
+     padding: 3.5rem;
+     
+ }
+ 
+ #footerrs p{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 900;
+     margin: .5rem
+    
+ }
+ #footerrs .btn{
+      background-color: rgb(37, 35, 35);
+      margin: 1rem 2rem;
+ }
+ #footer{
+     margin-top: 2rem;;
+ }
+
+
+
